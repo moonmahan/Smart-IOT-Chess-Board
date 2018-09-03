@@ -1,3 +1,5 @@
+//using magnetic sensor to light up a led
+
 int sens=5;
 int led=9;
 int out;
